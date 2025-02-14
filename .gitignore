@@ -1,3 +1,7 @@
+answers/*/*.txt
+inputs/*/*.txt
+inputs/tests/*/*.txt
+puzzles/
 .idea/
 
 target/
